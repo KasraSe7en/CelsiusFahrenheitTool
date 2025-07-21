@@ -12,3 +12,13 @@ This is a simple Python command-line application that allows users to convert te
 - Clear and formatted output
 
 ## 🧪 Example
+What do you want? (C to F: 1, F to C: 2, Exit: 3): 1
+Please enter the temperature in Celsius that you would like to convert to Fahrenheit: 100
+100.0°C is 212.00°F
+
+## ▶️ How to Run
+
+Make sure you have Python installed. Then run:
+
+```bash
+python temperature_converter.py
